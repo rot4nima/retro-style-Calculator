@@ -1,0 +1,9 @@
+This is a web Calculator
+I made it in a retro style because even im 13 but a used to use old retro technology until 2016 or 2017
+my childhood main laptop that i used until mis 2018 was running windows xp 
+and becuase a used to use retro tech as a child i liked it and made this calculator in the retro way with css
+i used functions
+consts
+lets
+get element by ids in js
+in html i made the buttons and the input
